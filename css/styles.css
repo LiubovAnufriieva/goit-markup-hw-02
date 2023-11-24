@@ -4,6 +4,11 @@ body {
     background-color: #fff;
 }
 
-ul, ol {
+a {
+    text-decoration: none;
+}
+
+ul {
     list-style-type: none;
 }
+
