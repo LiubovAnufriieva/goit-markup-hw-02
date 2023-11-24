@@ -37,12 +37,23 @@ ul {
     color: #F4F4FD;       
 }
 
+.nav-list-item:hover,
+.nav-list-item:focus,
+.nav-list-item:active {
+    color: #404BBF;
+}
+
 .nav-list-item {
         font-size: 16px;
         font-weight: 500;
         line-height: 24px;
         letter-spacing: 0.02em; 
         color: #2E2F42;
+}
+
+.nav-address:hover,
+.nav-address:focus {
+    color: #404BBF;
 }
 
 .nav-address {
@@ -70,10 +81,14 @@ ul {
     text-align: center;
 }
 
+.hero-button:hover,
+.hero-button:focus {
+    background-color: #404BBF;
+}
+
 .hero-button {
     width: 169px;
     height: 56px;  
-    padding: 16px, 32px, 16px, 32px; 
     border-radius: 4px;
     gap: 10px;
     background-color: #4D5AE5;
@@ -83,6 +98,7 @@ ul {
     line-height: 24px;
     letter-spacing: 0.04em;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 .benefit-item {
