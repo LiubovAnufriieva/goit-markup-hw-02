@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    color: #2E2F42;
+    color: #434455;
     background-color: #fff;
 }
 
@@ -15,23 +15,19 @@ ul {
 
 .logo {
     font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16em;
+    line-height: 1.17em;
     letter-spacing: 0.03em;
-    color: #2E2F42;
+    color:#4d5ae5;
 }
 
 .part-of-logo {
-    font-family: Raleway;
-        font-size: 18px;
-        font-weight: 700;
-        line-height: 1.16em;
-        letter-spacing: 0.03em;
-        color: #4D5AE5;
+    color: #2E2F42;
 }
 
-.logo-part-2 {
+.logo-part {
     color: #F4F4FD;       
 }
 
@@ -65,8 +61,6 @@ ul {
 
 .hero-page {
     background-color: #2E2F42;
-    width: 1440px; 
-    height: 600px 
 }
 
 .hero-title {
@@ -84,12 +78,9 @@ ul {
 }
 
 .hero-button {
-    width: 169px;
-    height: 56px;  
-    border-radius: 4px;
     gap: 10px;
     background-color: #4D5AE5;
-    font-family: Roboto;
+    font-family: inherit;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5em;
@@ -120,12 +111,17 @@ ul {
     background-color: #F4F4FD;
 }
 
+.team-card {
+    background-color: #fff;
+}
+
 .team-title {
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.1em;
+    line-height: 1.11em;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
 }
 
 .team-item {
@@ -138,14 +134,17 @@ ul {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5em;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .portfolio-title {
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.1em;
+    line-height: 1.11em;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
 }
 
 .portfolio-item {
@@ -153,6 +152,7 @@ ul {
     font-weight: 500;
     line-height: 1.2em;
     letter-spacing: 0.02em;
+    color: #2E2F42;
     text-align: left;
 }
 
@@ -161,6 +161,7 @@ ul {
     font-weight: 400;
     line-height: 1.5em;
     letter-spacing: 0.02em;
+    color: #434455;
     text-align: left;
 }
 
