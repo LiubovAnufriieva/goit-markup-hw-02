@@ -6,6 +6,7 @@ body {
 
 a {
     text-decoration: none;
+    color: #434455;
 }
 
 ul {
@@ -38,27 +39,29 @@ ul {
 }
 
 .nav-list-item {
-        font-size: 16px;
-        font-weight: 500;
-        line-height: 1.5em;
-        letter-spacing: 0.02em; 
-        color: #2E2F42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5em;
+    letter-spacing: 0.02em; 
+    color: #2E2F42;
 }
 
-.nav-address:hover,
-.nav-address:focus {
-    color: #404BBF;
+.address {
+    font-style: normal;
 }
 
-.nav-address {
+.address-item {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5em;
     letter-spacing: 0.02em;
-    color: #434455;
-    font-style: normal;
 }
 
+.address-item:hover,
+.address-item:focus {
+    color: #fff;
+}
+    
 .hero-page {
     background-color: #2E2F42;
 }
@@ -95,6 +98,7 @@ ul {
     line-height: 1.2em;
     letter-spacing: 0.02em;
     text-align: left;
+    color: #2e2f42;
 }
 
 .benefit-text {
@@ -124,10 +128,16 @@ ul {
     text-transform: capitalize;
 }
 
+.team-list {
+    background-color: #FFFFFF;
+}
+
 .team-item {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2em;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .team-text {
@@ -152,7 +162,7 @@ ul {
     font-weight: 500;
     line-height: 1.2em;
     letter-spacing: 0.02em;
-    color: #2E2F42;
+    color: #2e2f42;
     text-align: left;
 }
 
