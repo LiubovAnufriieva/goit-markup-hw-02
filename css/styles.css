@@ -17,9 +17,8 @@ ul {
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 21px;
+    line-height: 1.16em;
     letter-spacing: 0.03em;
-    text-align: left;
     color: #2E2F42;
 }
 
@@ -27,9 +26,8 @@ ul {
     font-family: Raleway;
         font-size: 18px;
         font-weight: 700;
-        line-height: 21px;
+        line-height: 1.16em;
         letter-spacing: 0.03em;
-        text-align: left;
         color: #4D5AE5;
 }
 
@@ -46,7 +44,7 @@ ul {
 .nav-list-item {
         font-size: 16px;
         font-weight: 500;
-        line-height: 24px;
+        line-height: 1.5em;
         letter-spacing: 0.02em; 
         color: #2E2F42;
 }
@@ -59,9 +57,8 @@ ul {
 .nav-address {
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.5em;
     letter-spacing: 0.02em;
-    text-align: left; 
     color: #434455;
     font-style: normal;
 }
@@ -76,7 +73,7 @@ ul {
     color: #fff;
     font-size: 56px;
     font-weight: 700;
-    line-height: 60px;
+    line-height: 1.07em;
     letter-spacing: 0.02em;
     text-align: center;
 }
@@ -95,7 +92,7 @@ ul {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.5em;
     letter-spacing: 0.04em;
     color: #FFFFFF;
     cursor: pointer;
@@ -104,7 +101,7 @@ ul {
 .benefit-item {
     font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.2em;
     letter-spacing: 0.02em;
     text-align: left;
 }
@@ -114,7 +111,7 @@ ul {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.5em;
     letter-spacing: 0.02em;
     text-align: left;
 }
@@ -126,7 +123,7 @@ ul {
 .team-title {
     font-size: 36px;
     font-weight: 700;
-    line-height: 40px;
+    line-height: 1.1em;
     letter-spacing: 0.02em;
     text-align: center;
 }
@@ -134,19 +131,19 @@ ul {
 .team-item {
     font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.2em;
 }
 
 .team-text {
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.5em;
 }
 
 .portfolio-title {
     font-size: 36px;
     font-weight: 700;
-    line-height: 40px;
+    line-height: 1.1em;
     letter-spacing: 0.02em;
     text-align: center;
 }
@@ -154,7 +151,7 @@ ul {
 .portfolio-item {
     font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.2em;
     letter-spacing: 0.02em;
     text-align: left;
 }
@@ -162,7 +159,7 @@ ul {
 .portfolio-text {
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.5em;
     letter-spacing: 0.02em;
     text-align: left;
 }
@@ -176,6 +173,6 @@ ul {
     color: #F4F4FD;
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.5em;
     letter-spacing: 0.02em;
 }
