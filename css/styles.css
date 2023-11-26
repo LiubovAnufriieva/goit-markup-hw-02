@@ -48,8 +48,8 @@ ul {
     color: #2E2F42;
 }
 
-a:hover,
-a:focus {
+.address-item:hover,
+.address-item:focus {
     color: #404BBF;
 }
 
